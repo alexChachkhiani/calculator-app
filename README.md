@@ -2,7 +2,7 @@
 
 ### This is a Calculator App built in React
 
-With this calculator, you can
+Using this calculator, you can
 
 * Add
 * Subtract
