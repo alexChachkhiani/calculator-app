@@ -8,3 +8,5 @@ Using this calculator, you can
 * Subtract
 * Divide
 * Multiply
+
+## View the website [here](https://alexchachkhiani.github.io/calculator-app/)
